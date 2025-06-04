@@ -1,2 +1,2 @@
 # My-Profile
-Simple profile web pade built with html.
+Simple profile web page built with html.
